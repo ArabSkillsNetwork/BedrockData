@@ -10,6 +10,7 @@
             "minecraft:acacia_planks",
             "minecraft:dark_oak_planks",
             "minecraft:mangrove_planks",
+            "minecraft:poplar_planks",
             "minecraft:cherry_planks",
             "minecraft:pale_oak_planks",
             "minecraft:bamboo_planks",
@@ -156,22 +157,68 @@
         ]
     },
     {
-        "group_icon": "minecraft:oak_fence",
+        "group_icon": {
+            "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+            "name": "minecraft:oak_fence"
+        },
         "group_name": "itemGroup.name.fence",
         "items": [
-            "minecraft:oak_fence",
-            "minecraft:spruce_fence",
-            "minecraft:birch_fence",
-            "minecraft:jungle_fence",
-            "minecraft:acacia_fence",
-            "minecraft:dark_oak_fence",
-            "minecraft:mangrove_fence",
-            "minecraft:cherry_fence",
-            "minecraft:pale_oak_fence",
-            "minecraft:bamboo_fence",
-            "minecraft:nether_brick_fence",
-            "minecraft:crimson_fence",
-            "minecraft:warped_fence"
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:oak_fence"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:spruce_fence"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:birch_fence"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:jungle_fence"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:acacia_fence"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:dark_oak_fence"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:mangrove_fence"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:poplar_fence"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:cherry_fence"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:pale_oak_fence"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:bamboo_fence"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:nether_brick_fence"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:crimson_fence"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:warped_fence"
+            }
         ]
     },
     {
@@ -211,6 +258,10 @@
             },
             {
                 "block_states": "CgAAAQsAaW5fd2FsbF9iaXQACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCABvcGVuX2JpdAAA",
+                "name": "minecraft:poplar_fence_gate"
+            },
+            {
+                "block_states": "CgAAAQsAaW5fd2FsbF9iaXQACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCABvcGVuX2JpdAAA",
                 "name": "minecraft:cherry_fence_gate"
             },
             {
@@ -233,266 +284,398 @@
     },
     {
         "group_icon": {
-            "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+            "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
             "name": "minecraft:stone_stairs"
         },
         "group_name": "itemGroup.name.stairs",
         "items": [
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:normal_stone_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:stone_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:mossy_cobblestone_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:oak_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:spruce_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:birch_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:jungle_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:acacia_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:dark_oak_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:mangrove_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:poplar_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:cherry_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:pale_oak_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:bamboo_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:bamboo_mosaic_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:stone_brick_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:mossy_stone_brick_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:sandstone_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:smooth_sandstone_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:red_sandstone_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:smooth_red_sandstone_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:granite_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:polished_granite_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:diorite_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:polished_diorite_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:andesite_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:polished_andesite_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:brick_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:nether_brick_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:red_nether_brick_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:end_brick_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:quartz_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:smooth_quartz_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:purpur_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:prismarine_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:dark_prismarine_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:prismarine_bricks_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:crimson_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:warped_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:blackstone_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:polished_blackstone_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:polished_blackstone_brick_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:cobbled_deepslate_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:deepslate_tile_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:polished_deepslate_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:deepslate_brick_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:tuff_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:polished_tuff_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:tuff_brick_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:mud_brick_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:cut_copper_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:exposed_cut_copper_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:weathered_cut_copper_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:oxidized_cut_copper_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:waxed_cut_copper_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:waxed_exposed_cut_copper_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:waxed_weathered_cut_copper_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:waxed_oxidized_cut_copper_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:resin_brick_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:cinnabar_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:polished_cinnabar_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:cinnabar_brick_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:sulfur_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:polished_sulfur_stairs"
             },
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:sulfur_brick_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:white_wool_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:light_gray_wool_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:gray_wool_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:black_wool_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:brown_wool_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:red_wool_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:orange_wool_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:yellow_wool_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:lime_wool_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:green_wool_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:cyan_wool_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:light_blue_wool_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:blue_wool_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:purple_wool_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:magenta_wool_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:pink_wool_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:white_concrete_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:light_gray_concrete_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:gray_concrete_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:black_concrete_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:brown_concrete_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:red_concrete_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:orange_concrete_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:yellow_concrete_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:lime_concrete_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:green_concrete_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:cyan_concrete_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:light_blue_concrete_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:blue_concrete_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:purple_concrete_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:magenta_concrete_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:pink_concrete_stairs"
             }
         ]
     },
@@ -507,6 +690,7 @@
             "minecraft:acacia_door",
             "minecraft:dark_oak_door",
             "minecraft:mangrove_door",
+            "minecraft:poplar_door",
             "minecraft:cherry_door",
             "minecraft:pale_oak_door",
             "minecraft:bamboo_door",
@@ -557,6 +741,10 @@
             {
                 "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
                 "name": "minecraft:mangrove_trapdoor"
+            },
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
+                "name": "minecraft:poplar_trapdoor"
             },
             {
                 "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
@@ -617,18 +805,48 @@
         ]
     },
     {
-        "group_icon": "minecraft:iron_bars",
+        "group_icon": {
+            "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+            "name": "minecraft:iron_bars"
+        },
         "group_name": "itemGroup.name.bars",
         "items": [
-            "minecraft:iron_bars",
-            "minecraft:copper_bars",
-            "minecraft:exposed_copper_bars",
-            "minecraft:weathered_copper_bars",
-            "minecraft:oxidized_copper_bars",
-            "minecraft:waxed_copper_bars",
-            "minecraft:waxed_exposed_copper_bars",
-            "minecraft:waxed_weathered_copper_bars",
-            "minecraft:waxed_oxidized_copper_bars"
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:iron_bars"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:copper_bars"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:exposed_copper_bars"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:weathered_copper_bars"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:oxidized_copper_bars"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:waxed_copper_bars"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:waxed_exposed_copper_bars"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:waxed_weathered_copper_bars"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:waxed_oxidized_copper_bars"
+            }
         ]
     },
     {
@@ -656,26 +874,80 @@
         ]
     },
     {
-        "group_icon": "minecraft:glass_pane",
+        "group_icon": {
+            "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+            "name": "minecraft:glass_pane"
+        },
         "group_name": "itemGroup.name.glassPane",
         "items": [
-            "minecraft:glass_pane",
-            "minecraft:white_stained_glass_pane",
-            "minecraft:light_gray_stained_glass_pane",
-            "minecraft:gray_stained_glass_pane",
-            "minecraft:black_stained_glass_pane",
-            "minecraft:brown_stained_glass_pane",
-            "minecraft:red_stained_glass_pane",
-            "minecraft:orange_stained_glass_pane",
-            "minecraft:yellow_stained_glass_pane",
-            "minecraft:lime_stained_glass_pane",
-            "minecraft:green_stained_glass_pane",
-            "minecraft:cyan_stained_glass_pane",
-            "minecraft:light_blue_stained_glass_pane",
-            "minecraft:blue_stained_glass_pane",
-            "minecraft:purple_stained_glass_pane",
-            "minecraft:magenta_stained_glass_pane",
-            "minecraft:pink_stained_glass_pane"
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:white_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:light_gray_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:gray_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:black_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:brown_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:red_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:orange_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:yellow_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:lime_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:green_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:cyan_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:light_blue_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:blue_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:purple_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:magenta_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:pink_stained_glass_pane"
+            }
         ]
     },
     {
@@ -743,6 +1015,10 @@
             {
                 "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "name": "minecraft:mangrove_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:poplar_slab"
             },
             {
                 "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
@@ -967,6 +1243,134 @@
             {
                 "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "name": "minecraft:sulfur_brick_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:white_wool_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:light_gray_wool_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:gray_wool_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:black_wool_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:brown_wool_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:red_wool_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:orange_wool_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:yellow_wool_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:lime_wool_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:green_wool_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:cyan_wool_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:light_blue_wool_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:blue_wool_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:purple_wool_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:magenta_wool_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:pink_wool_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:white_concrete_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:light_gray_concrete_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:gray_concrete_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:black_concrete_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:brown_concrete_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:red_concrete_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:orange_concrete_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:yellow_concrete_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:lime_concrete_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:green_concrete_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:cyan_concrete_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:light_blue_concrete_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:blue_concrete_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:purple_concrete_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:magenta_concrete_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:pink_concrete_slab"
             }
         ]
     },

@@ -70,7 +70,30 @@
             {
                 "meta": 6,
                 "name": "minecraft:bed"
-            }
+            },
+            "minecraft:straw_bed"
+        ]
+    },
+    {
+        "group_icon": "minecraft:red_cushion",
+        "group_name": "itemGroup.name.cushion",
+        "items": [
+            "minecraft:white_cushion",
+            "minecraft:light_gray_cushion",
+            "minecraft:gray_cushion",
+            "minecraft:black_cushion",
+            "minecraft:brown_cushion",
+            "minecraft:red_cushion",
+            "minecraft:orange_cushion",
+            "minecraft:yellow_cushion",
+            "minecraft:lime_cushion",
+            "minecraft:green_cushion",
+            "minecraft:cyan_cushion",
+            "minecraft:light_blue_cushion",
+            "minecraft:blue_cushion",
+            "minecraft:purple_cushion",
+            "minecraft:magenta_cushion",
+            "minecraft:pink_cushion"
         ]
     },
     {
@@ -336,6 +359,10 @@
             },
             {
                 "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "name": "minecraft:poplar_shelf"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
                 "name": "minecraft:cherry_shelf"
             },
             {
@@ -563,6 +590,7 @@
             "minecraft:acacia_sign",
             "minecraft:dark_oak_sign",
             "minecraft:mangrove_sign",
+            "minecraft:poplar_sign",
             "minecraft:cherry_sign",
             "minecraft:pale_oak_sign",
             "minecraft:bamboo_sign",
@@ -581,6 +609,7 @@
             "minecraft:acacia_hanging_sign",
             "minecraft:dark_oak_hanging_sign",
             "minecraft:mangrove_hanging_sign",
+            "minecraft:poplar_hanging_sign",
             "minecraft:cherry_hanging_sign",
             "minecraft:pale_oak_hanging_sign",
             "minecraft:bamboo_hanging_sign",
@@ -1284,6 +1313,7 @@
             "minecraft:acacia_boat",
             "minecraft:dark_oak_boat",
             "minecraft:mangrove_boat",
+            "minecraft:poplar_boat",
             "minecraft:cherry_boat",
             "minecraft:pale_oak_boat",
             "minecraft:bamboo_raft"
@@ -1300,6 +1330,7 @@
             "minecraft:acacia_chest_boat",
             "minecraft:dark_oak_chest_boat",
             "minecraft:mangrove_chest_boat",
+            "minecraft:poplar_chest_boat",
             "minecraft:cherry_chest_boat",
             "minecraft:pale_oak_chest_boat",
             "minecraft:bamboo_chest_raft"
@@ -1393,6 +1424,10 @@
             },
             {
                 "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:poplar_button"
+            },
+            {
+                "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
                 "name": "minecraft:cherry_button"
             },
             {
@@ -1465,6 +1500,10 @@
             {
                 "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
                 "name": "minecraft:mangrove_pressure_plate"
+            },
+            {
+                "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+                "name": "minecraft:poplar_pressure_plate"
             },
             {
                 "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
@@ -2141,7 +2180,10 @@
                 "name": "minecraft:medicine"
             },
             "minecraft:hard_glass",
-            "minecraft:hard_glass_pane",
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:hard_glass_pane"
+            },
             "minecraft:hard_white_stained_glass",
             "minecraft:hard_orange_stained_glass",
             "minecraft:hard_magenta_stained_glass",
@@ -2158,22 +2200,70 @@
             "minecraft:hard_green_stained_glass",
             "minecraft:hard_red_stained_glass",
             "minecraft:hard_black_stained_glass",
-            "minecraft:hard_white_stained_glass_pane",
-            "minecraft:hard_orange_stained_glass_pane",
-            "minecraft:hard_magenta_stained_glass_pane",
-            "minecraft:hard_light_blue_stained_glass_pane",
-            "minecraft:hard_yellow_stained_glass_pane",
-            "minecraft:hard_lime_stained_glass_pane",
-            "minecraft:hard_pink_stained_glass_pane",
-            "minecraft:hard_gray_stained_glass_pane",
-            "minecraft:hard_light_gray_stained_glass_pane",
-            "minecraft:hard_cyan_stained_glass_pane",
-            "minecraft:hard_purple_stained_glass_pane",
-            "minecraft:hard_blue_stained_glass_pane",
-            "minecraft:hard_brown_stained_glass_pane",
-            "minecraft:hard_green_stained_glass_pane",
-            "minecraft:hard_red_stained_glass_pane",
-            "minecraft:hard_black_stained_glass_pane",
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:hard_white_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:hard_orange_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:hard_magenta_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:hard_light_blue_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:hard_yellow_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:hard_lime_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:hard_pink_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:hard_gray_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:hard_light_gray_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:hard_cyan_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:hard_purple_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:hard_blue_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:hard_brown_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:hard_green_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:hard_red_stained_glass_pane"
+            },
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZWFzdAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9ub3J0aAABGgBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9zb3V0aAABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl93ZXN0AAA=",
+                "name": "minecraft:hard_black_stained_glass_pane"
+            },
             "minecraft:balloon",
             {
                 "meta": 1,

@@ -81,6 +81,7 @@
         "minecraft:chest_boat": {
             "0": "minecraft:oak_chest_boat",
             "1": "minecraft:spruce_chest_boat",
+            "10": "minecraft:poplar_chest_boat",
             "2": "minecraft:birch_chest_boat",
             "3": "minecraft:jungle_chest_boat",
             "4": "minecraft:acacia_chest_boat",
@@ -747,6 +748,7 @@
         "minecraft:muttonraw": "minecraft:mutton",
         "minecraft:nametag": "minecraft:name_tag",
         "minecraft:netherstar": "minecraft:nether_star",
+        "minecraft:photo": "minecraft:photo_item",
         "minecraft:pistonarmcollision": "minecraft:piston_arm_collision",
         "minecraft:prismarineshard": "minecraft:prismarine_shard",
         "minecraft:real_double_stone_slab": "minecraft:double_stone_block_slab",

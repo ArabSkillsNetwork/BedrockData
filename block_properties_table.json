@@ -87,7 +87,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:acacia_sapling": {
         "blastResistance": 0.0,
@@ -438,7 +438,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:bamboo_sapling": {
         "blastResistance": 1.0,
@@ -546,7 +546,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.20000000298023224,
-        "opacity": 0.8999999985098839
+        "opacity": 0.8999999761581421
     },
     "minecraft:bedrock": {
         "blastResistance": 3600000.0,
@@ -690,7 +690,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:birch_sapling": {
         "blastResistance": 0.0,
@@ -800,6 +800,15 @@
         "hardness": 1.7999999523162842,
         "opacity": 1.0
     },
+    "minecraft:black_concrete_double_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
     "minecraft:black_concrete_powder": {
         "blastResistance": 0.5,
         "brightness": 0.0,
@@ -808,6 +817,24 @@
         "friction": 0.6000000238418579,
         "hardness": 0.5,
         "opacity": 1.0
+    },
+    "minecraft:black_concrete_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
+    "minecraft:black_concrete_stairs": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 0.19999998807907104
     },
     "minecraft:black_glazed_terracotta": {
         "blastResistance": 1.399999976158142,
@@ -856,6 +883,33 @@
     },
     "minecraft:black_wool": {
         "blastResistance": 0.800000011920929,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:black_wool_double_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 1.0
+    },
+    "minecraft:black_wool_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:black_wool_stairs": {
+        "blastResistance": 0.1599999964237213,
         "brightness": 0.0,
         "flameEncouragement": 30,
         "flammability": 60,
@@ -953,6 +1007,15 @@
         "hardness": 1.7999999523162842,
         "opacity": 1.0
     },
+    "minecraft:blue_concrete_double_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
     "minecraft:blue_concrete_powder": {
         "blastResistance": 0.5,
         "brightness": 0.0,
@@ -961,6 +1024,24 @@
         "friction": 0.6000000238418579,
         "hardness": 0.5,
         "opacity": 1.0
+    },
+    "minecraft:blue_concrete_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
+    "minecraft:blue_concrete_stairs": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 0.19999998807907104
     },
     "minecraft:blue_glazed_terracotta": {
         "blastResistance": 1.399999976158142,
@@ -1027,6 +1108,33 @@
     },
     "minecraft:blue_wool": {
         "blastResistance": 0.800000011920929,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:blue_wool_double_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 1.0
+    },
+    "minecraft:blue_wool_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:blue_wool_stairs": {
+        "blastResistance": 0.1599999964237213,
         "brightness": 0.0,
         "flameEncouragement": 30,
         "flammability": 60,
@@ -1187,6 +1295,15 @@
         "hardness": 1.7999999523162842,
         "opacity": 1.0
     },
+    "minecraft:brown_concrete_double_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
     "minecraft:brown_concrete_powder": {
         "blastResistance": 0.5,
         "brightness": 0.0,
@@ -1195,6 +1312,24 @@
         "friction": 0.6000000238418579,
         "hardness": 0.5,
         "opacity": 1.0
+    },
+    "minecraft:brown_concrete_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
+    "minecraft:brown_concrete_stairs": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 0.19999998807907104
     },
     "minecraft:brown_glazed_terracotta": {
         "blastResistance": 1.399999976158142,
@@ -1261,6 +1396,33 @@
     },
     "minecraft:brown_wool": {
         "blastResistance": 0.800000011920929,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:brown_wool_double_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 1.0
+    },
+    "minecraft:brown_wool_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:brown_wool_stairs": {
+        "blastResistance": 0.1599999964237213,
         "brightness": 0.0,
         "flameEncouragement": 30,
         "flammability": 60,
@@ -1387,7 +1549,7 @@
     },
     "minecraft:campfire": {
         "blastResistance": 2.0,
-        "brightness": 0.0,
+        "brightness": 15.0,
         "flameEncouragement": 5,
         "flammability": 20,
         "friction": 0.6000000238418579,
@@ -1590,13 +1752,13 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:cherry_sapling": {
         "blastResistance": 0.0,
         "brightness": 0.0,
-        "flameEncouragement": 5,
-        "flammability": 20,
+        "flameEncouragement": 0,
+        "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.0,
         "opacity": 0.0
@@ -2427,7 +2589,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:crimson_roots": {
         "blastResistance": 0.0,
@@ -2627,6 +2789,15 @@
         "hardness": 1.7999999523162842,
         "opacity": 1.0
     },
+    "minecraft:cyan_concrete_double_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
     "minecraft:cyan_concrete_powder": {
         "blastResistance": 0.5,
         "brightness": 0.0,
@@ -2635,6 +2806,24 @@
         "friction": 0.6000000238418579,
         "hardness": 0.5,
         "opacity": 1.0
+    },
+    "minecraft:cyan_concrete_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
+    "minecraft:cyan_concrete_stairs": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 0.19999998807907104
     },
     "minecraft:cyan_glazed_terracotta": {
         "blastResistance": 1.399999976158142,
@@ -2683,6 +2872,33 @@
     },
     "minecraft:cyan_wool": {
         "blastResistance": 0.800000011920929,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:cyan_wool_double_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 1.0
+    },
+    "minecraft:cyan_wool_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:cyan_wool_stairs": {
+        "blastResistance": 0.1599999964237213,
         "brightness": 0.0,
         "flameEncouragement": 30,
         "flammability": 60,
@@ -2796,7 +3012,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:dark_oak_sapling": {
         "blastResistance": 0.0,
@@ -5210,6 +5426,15 @@
         "hardness": 1.7999999523162842,
         "opacity": 1.0
     },
+    "minecraft:gray_concrete_double_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
     "minecraft:gray_concrete_powder": {
         "blastResistance": 0.5,
         "brightness": 0.0,
@@ -5218,6 +5443,24 @@
         "friction": 0.6000000238418579,
         "hardness": 0.5,
         "opacity": 1.0
+    },
+    "minecraft:gray_concrete_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
+    "minecraft:gray_concrete_stairs": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 0.19999998807907104
     },
     "minecraft:gray_glazed_terracotta": {
         "blastResistance": 1.399999976158142,
@@ -5273,6 +5516,33 @@
         "hardness": 0.800000011920929,
         "opacity": 0.19999998807907104
     },
+    "minecraft:gray_wool_double_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 1.0
+    },
+    "minecraft:gray_wool_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:gray_wool_stairs": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:green_candle": {
         "blastResistance": 0.10000000149011612,
         "brightness": 0.0,
@@ -5309,6 +5579,15 @@
         "hardness": 1.7999999523162842,
         "opacity": 1.0
     },
+    "minecraft:green_concrete_double_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
     "minecraft:green_concrete_powder": {
         "blastResistance": 0.5,
         "brightness": 0.0,
@@ -5317,6 +5596,24 @@
         "friction": 0.6000000238418579,
         "hardness": 0.5,
         "opacity": 1.0
+    },
+    "minecraft:green_concrete_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
+    "minecraft:green_concrete_stairs": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 0.19999998807907104
     },
     "minecraft:green_glazed_terracotta": {
         "blastResistance": 1.399999976158142,
@@ -5365,6 +5662,33 @@
     },
     "minecraft:green_wool": {
         "blastResistance": 0.800000011920929,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:green_wool_double_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 1.0
+    },
+    "minecraft:green_wool_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:green_wool_stairs": {
+        "blastResistance": 0.1599999964237213,
         "brightness": 0.0,
         "flameEncouragement": 30,
         "flammability": 60,
@@ -5730,7 +6054,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:honey_block": {
         "blastResistance": 0.0,
@@ -6054,7 +6378,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:jungle_sapling": {
         "blastResistance": 0.0,
@@ -6416,6 +6740,15 @@
         "hardness": 1.7999999523162842,
         "opacity": 1.0
     },
+    "minecraft:light_blue_concrete_double_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
     "minecraft:light_blue_concrete_powder": {
         "blastResistance": 0.5,
         "brightness": 0.0,
@@ -6424,6 +6757,24 @@
         "friction": 0.6000000238418579,
         "hardness": 0.5,
         "opacity": 1.0
+    },
+    "minecraft:light_blue_concrete_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
+    "minecraft:light_blue_concrete_stairs": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 0.19999998807907104
     },
     "minecraft:light_blue_glazed_terracotta": {
         "blastResistance": 1.399999976158142,
@@ -6479,6 +6830,33 @@
         "hardness": 0.800000011920929,
         "opacity": 0.19999998807907104
     },
+    "minecraft:light_blue_wool_double_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 1.0
+    },
+    "minecraft:light_blue_wool_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:light_blue_wool_stairs": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:light_gray_candle": {
         "blastResistance": 0.10000000149011612,
         "brightness": 0.0,
@@ -6515,6 +6893,15 @@
         "hardness": 1.7999999523162842,
         "opacity": 1.0
     },
+    "minecraft:light_gray_concrete_double_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
     "minecraft:light_gray_concrete_powder": {
         "blastResistance": 0.5,
         "brightness": 0.0,
@@ -6523,6 +6910,24 @@
         "friction": 0.6000000238418579,
         "hardness": 0.5,
         "opacity": 1.0
+    },
+    "minecraft:light_gray_concrete_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
+    "minecraft:light_gray_concrete_stairs": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 0.19999998807907104
     },
     "minecraft:light_gray_shulker_box": {
         "blastResistance": 2.0,
@@ -6569,6 +6974,33 @@
         "hardness": 0.800000011920929,
         "opacity": 0.19999998807907104
     },
+    "minecraft:light_gray_wool_double_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 1.0
+    },
+    "minecraft:light_gray_wool_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:light_gray_wool_stairs": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:light_weighted_pressure_plate": {
         "blastResistance": 0.5,
         "brightness": 0.0,
@@ -6576,7 +7008,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:lightning_rod": {
         "blastResistance": 6.0,
@@ -6641,6 +7073,15 @@
         "hardness": 1.7999999523162842,
         "opacity": 1.0
     },
+    "minecraft:lime_concrete_double_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
     "minecraft:lime_concrete_powder": {
         "blastResistance": 0.5,
         "brightness": 0.0,
@@ -6649,6 +7090,24 @@
         "friction": 0.6000000238418579,
         "hardness": 0.5,
         "opacity": 1.0
+    },
+    "minecraft:lime_concrete_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
+    "minecraft:lime_concrete_stairs": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 0.19999998807907104
     },
     "minecraft:lime_glazed_terracotta": {
         "blastResistance": 1.399999976158142,
@@ -6697,6 +7156,33 @@
     },
     "minecraft:lime_wool": {
         "blastResistance": 0.800000011920929,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:lime_wool_double_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 1.0
+    },
+    "minecraft:lime_wool_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:lime_wool_stairs": {
+        "blastResistance": 0.1599999964237213,
         "brightness": 0.0,
         "flameEncouragement": 30,
         "flammability": 60,
@@ -6821,6 +7307,15 @@
         "hardness": 1.7999999523162842,
         "opacity": 1.0
     },
+    "minecraft:magenta_concrete_double_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
     "minecraft:magenta_concrete_powder": {
         "blastResistance": 0.5,
         "brightness": 0.0,
@@ -6829,6 +7324,24 @@
         "friction": 0.6000000238418579,
         "hardness": 0.5,
         "opacity": 1.0
+    },
+    "minecraft:magenta_concrete_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
+    "minecraft:magenta_concrete_stairs": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 0.19999998807907104
     },
     "minecraft:magenta_glazed_terracotta": {
         "blastResistance": 1.399999976158142,
@@ -6877,6 +7390,33 @@
     },
     "minecraft:magenta_wool": {
         "blastResistance": 0.800000011920929,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:magenta_wool_double_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 1.0
+    },
+    "minecraft:magenta_wool_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:magenta_wool_stairs": {
+        "blastResistance": 0.1599999964237213,
         "brightness": 0.0,
         "flameEncouragement": 30,
         "flammability": 60,
@@ -6981,7 +7521,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:mangrove_propagule": {
         "blastResistance": 0.0,
@@ -7631,6 +8171,15 @@
         "hardness": 1.7999999523162842,
         "opacity": 1.0
     },
+    "minecraft:orange_concrete_double_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
     "minecraft:orange_concrete_powder": {
         "blastResistance": 0.5,
         "brightness": 0.0,
@@ -7640,6 +8189,24 @@
         "hardness": 0.5,
         "opacity": 1.0
     },
+    "minecraft:orange_concrete_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
+    "minecraft:orange_concrete_stairs": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:orange_glazed_terracotta": {
         "blastResistance": 1.399999976158142,
         "brightness": 0.0,
@@ -7648,6 +8215,15 @@
         "friction": 0.6000000238418579,
         "hardness": 1.399999976158142,
         "opacity": 1.0
+    },
+    "minecraft:orange_poplar_leaves": {
+        "blastResistance": 0.20000000298023224,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.20000000298023224,
+        "opacity": 0.5
     },
     "minecraft:orange_shulker_box": {
         "blastResistance": 2.0,
@@ -7696,6 +8272,33 @@
     },
     "minecraft:orange_wool": {
         "blastResistance": 0.800000011920929,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:orange_wool_double_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 1.0
+    },
+    "minecraft:orange_wool_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:orange_wool_stairs": {
+        "blastResistance": 0.1599999964237213,
         "brightness": 0.0,
         "flameEncouragement": 30,
         "flammability": 60,
@@ -7989,13 +8592,13 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:pale_oak_sapling": {
         "blastResistance": 0.0,
         "brightness": 0.0,
-        "flameEncouragement": 5,
-        "flammability": 20,
+        "flameEncouragement": 0,
+        "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.0,
         "opacity": 0.0
@@ -8144,6 +8747,15 @@
         "hardness": 1.7999999523162842,
         "opacity": 1.0
     },
+    "minecraft:pink_concrete_double_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
     "minecraft:pink_concrete_powder": {
         "blastResistance": 0.5,
         "brightness": 0.0,
@@ -8152,6 +8764,24 @@
         "friction": 0.6000000238418579,
         "hardness": 0.5,
         "opacity": 1.0
+    },
+    "minecraft:pink_concrete_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
+    "minecraft:pink_concrete_stairs": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 0.19999998807907104
     },
     "minecraft:pink_glazed_terracotta": {
         "blastResistance": 1.399999976158142,
@@ -8218,6 +8848,33 @@
     },
     "minecraft:pink_wool": {
         "blastResistance": 0.800000011920929,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:pink_wool_double_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 1.0
+    },
+    "minecraft:pink_wool_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:pink_wool_stairs": {
+        "blastResistance": 0.1599999964237213,
         "brightness": 0.0,
         "flameEncouragement": 30,
         "flammability": 60,
@@ -8412,7 +9069,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:polished_blackstone_slab": {
         "blastResistance": 6.0,
@@ -8693,6 +9350,159 @@
         "hardness": 1.5,
         "opacity": 0.19999998807907104
     },
+    "minecraft:poplar_button": {
+        "blastResistance": 0.5,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 0.5,
+        "opacity": 1.0
+    },
+    "minecraft:poplar_door": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:poplar_double_slab": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 1.0
+    },
+    "minecraft:poplar_fence": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:poplar_fence_gate": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:poplar_hanging_sign": {
+        "blastResistance": 1.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.0,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:poplar_log": {
+        "blastResistance": 2.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 5,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 1.0
+    },
+    "minecraft:poplar_planks": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 1.0
+    },
+    "minecraft:poplar_pressure_plate": {
+        "blastResistance": 0.5,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 0.5,
+        "opacity": 0.800000011920929
+    },
+    "minecraft:poplar_sapling": {
+        "blastResistance": 0.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 0.0,
+        "opacity": 0.0
+    },
+    "minecraft:poplar_shelf": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:poplar_slab": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 1.0
+    },
+    "minecraft:poplar_stairs": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:poplar_standing_sign": {
+        "blastResistance": 1.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.0,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:poplar_trapdoor": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:poplar_wall_sign": {
+        "blastResistance": 1.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.0,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:poplar_wood": {
+        "blastResistance": 2.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 5,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 1.0
+    },
     "minecraft:poppy": {
         "blastResistance": 0.0,
         "brightness": 0.0,
@@ -8891,6 +9701,15 @@
         "hardness": 1.7999999523162842,
         "opacity": 1.0
     },
+    "minecraft:purple_concrete_double_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
     "minecraft:purple_concrete_powder": {
         "blastResistance": 0.5,
         "brightness": 0.0,
@@ -8899,6 +9718,24 @@
         "friction": 0.6000000238418579,
         "hardness": 0.5,
         "opacity": 1.0
+    },
+    "minecraft:purple_concrete_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
+    "minecraft:purple_concrete_stairs": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 0.19999998807907104
     },
     "minecraft:purple_glazed_terracotta": {
         "blastResistance": 1.399999976158142,
@@ -8947,6 +9784,33 @@
     },
     "minecraft:purple_wool": {
         "blastResistance": 0.800000011920929,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:purple_wool_double_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 1.0
+    },
+    "minecraft:purple_wool_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:purple_wool_stairs": {
+        "blastResistance": 0.1599999964237213,
         "brightness": 0.0,
         "flameEncouragement": 30,
         "flammability": 60,
@@ -9134,6 +9998,15 @@
         "hardness": 1.7999999523162842,
         "opacity": 1.0
     },
+    "minecraft:red_concrete_double_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
     "minecraft:red_concrete_powder": {
         "blastResistance": 0.5,
         "brightness": 0.0,
@@ -9142,6 +10015,24 @@
         "friction": 0.6000000238418579,
         "hardness": 0.5,
         "opacity": 1.0
+    },
+    "minecraft:red_concrete_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
+    "minecraft:red_concrete_stairs": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 0.19999998807907104
     },
     "minecraft:red_glazed_terracotta": {
         "blastResistance": 1.399999976158142,
@@ -9215,6 +10106,15 @@
         "hardness": 2.0,
         "opacity": 0.19999998807907104
     },
+    "minecraft:red_poplar_leaves": {
+        "blastResistance": 0.20000000298023224,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.20000000298023224,
+        "opacity": 0.5
+    },
     "minecraft:red_sand": {
         "blastResistance": 0.5,
         "brightness": 0.0,
@@ -9269,6 +10169,15 @@
         "hardness": 0.800000011920929,
         "opacity": 0.19999998807907104
     },
+    "minecraft:red_shrub": {
+        "blastResistance": 0.0,
+        "brightness": 0.0,
+        "flameEncouragement": 60,
+        "flammability": 100,
+        "friction": 0.6000000238418579,
+        "hardness": 0.0,
+        "opacity": 0.0
+    },
     "minecraft:red_shulker_box": {
         "blastResistance": 2.0,
         "brightness": 0.0,
@@ -9316,6 +10225,33 @@
     },
     "minecraft:red_wool": {
         "blastResistance": 0.800000011920929,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:red_wool_double_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 1.0
+    },
+    "minecraft:red_wool_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:red_wool_stairs": {
+        "blastResistance": 0.1599999964237213,
         "brightness": 0.0,
         "flameEncouragement": 30,
         "flammability": 60,
@@ -9620,6 +10556,15 @@
         "hardness": 0.0,
         "opacity": 0.0
     },
+    "minecraft:shelf_mushroom": {
+        "blastResistance": 0.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 0.0,
+        "opacity": 0.0
+    },
     "minecraft:short_dry_grass": {
         "blastResistance": 0.0,
         "brightness": 0.0,
@@ -9883,7 +10828,7 @@
     },
     "minecraft:soul_campfire": {
         "blastResistance": 2.0,
-        "brightness": 0.0,
+        "brightness": 10.0,
         "flameEncouragement": 5,
         "flammability": 20,
         "friction": 0.6000000238418579,
@@ -10041,7 +10986,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:spruce_sapling": {
         "blastResistance": 0.0,
@@ -10221,7 +11166,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:stone_stairs": {
         "blastResistance": 6.0,
@@ -10248,6 +11193,15 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 3.5,
+        "opacity": 1.0
+    },
+    "minecraft:straw_bed": {
+        "blastResistance": 0.20000000298023224,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.20000000298023224,
         "opacity": 1.0
     },
     "minecraft:stripped_acacia_log": {
@@ -10413,6 +11367,24 @@
         "opacity": 1.0
     },
     "minecraft:stripped_pale_oak_wood": {
+        "blastResistance": 2.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 5,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 1.0
+    },
+    "minecraft:stripped_poplar_log": {
+        "blastResistance": 2.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 5,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 1.0
+    },
+    "minecraft:stripped_poplar_wood": {
         "blastResistance": 2.0,
         "brightness": 0.0,
         "flameEncouragement": 5,
@@ -10936,7 +11908,7 @@
     },
     "minecraft:vault": {
         "blastResistance": 50.0,
-        "brightness": 0.0,
+        "brightness": 6.0,
         "flameEncouragement": 0,
         "flammability": 0,
         "friction": 0.6000000238418579,
@@ -11076,7 +12048,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:warped_roots": {
         "blastResistance": 0.0,
@@ -11969,6 +12941,15 @@
         "hardness": 1.7999999523162842,
         "opacity": 1.0
     },
+    "minecraft:white_concrete_double_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
     "minecraft:white_concrete_powder": {
         "blastResistance": 0.5,
         "brightness": 0.0,
@@ -11977,6 +12958,24 @@
         "friction": 0.6000000238418579,
         "hardness": 0.5,
         "opacity": 1.0
+    },
+    "minecraft:white_concrete_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
+    "minecraft:white_concrete_stairs": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 0.19999998807907104
     },
     "minecraft:white_glazed_terracotta": {
         "blastResistance": 1.399999976158142,
@@ -12041,6 +13040,33 @@
         "hardness": 0.800000011920929,
         "opacity": 0.19999998807907104
     },
+    "minecraft:white_wool_double_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 1.0
+    },
+    "minecraft:white_wool_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:white_wool_stairs": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:wildflowers": {
         "blastResistance": 0.0,
         "brightness": 0.0,
@@ -12093,7 +13119,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:yellow_candle": {
         "blastResistance": 0.10000000149011612,
@@ -12131,6 +13157,15 @@
         "hardness": 1.7999999523162842,
         "opacity": 1.0
     },
+    "minecraft:yellow_concrete_double_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
     "minecraft:yellow_concrete_powder": {
         "blastResistance": 0.5,
         "brightness": 0.0,
@@ -12140,6 +13175,24 @@
         "hardness": 0.5,
         "opacity": 1.0
     },
+    "minecraft:yellow_concrete_slab": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
+    "minecraft:yellow_concrete_stairs": {
+        "blastResistance": 0.35999998450279236,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:yellow_glazed_terracotta": {
         "blastResistance": 1.399999976158142,
         "brightness": 0.0,
@@ -12148,6 +13201,15 @@
         "friction": 0.6000000238418579,
         "hardness": 1.399999976158142,
         "opacity": 1.0
+    },
+    "minecraft:yellow_poplar_leaves": {
+        "blastResistance": 0.20000000298023224,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.20000000298023224,
+        "opacity": 0.5
     },
     "minecraft:yellow_shulker_box": {
         "blastResistance": 2.0,
@@ -12187,6 +13249,33 @@
     },
     "minecraft:yellow_wool": {
         "blastResistance": 0.800000011920929,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:yellow_wool_double_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 1.0
+    },
+    "minecraft:yellow_wool_slab": {
+        "blastResistance": 0.1599999964237213,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:yellow_wool_stairs": {
+        "blastResistance": 0.1599999964237213,
         "brightness": 0.0,
         "flameEncouragement": 30,
         "flammability": 60,

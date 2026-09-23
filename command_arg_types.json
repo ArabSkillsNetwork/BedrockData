@@ -37,21 +37,17 @@
     },
     "CODEBUILDERARG": {
         "description": "unknown",
-        "id": 87
+        "id": 89
     },
     "CODEBUILDERARGS": {
         "description": "command",
-        "id": 88
+        "id": 90
     },
     "CODEBUILDERSELECTOR": {
         "description": "unknown",
-        "id": 90
+        "id": 92
     },
     "CODEBUILDERSELECTPARAM": {
-        "description": "unknown",
-        "id": 89
-    },
-    "COMMAND": {
         "description": "unknown",
         "id": 91
     },
@@ -271,6 +267,14 @@
         "description": "unknown",
         "id": 38
     },
+    "POI_TAG": {
+        "description": "poi tag",
+        "id": 87
+    },
+    "POI_TYPE": {
+        "description": "poi type",
+        "id": 88
+    },
     "POSITION": {
         "description": "x y z",
         "id": 64
@@ -334,10 +338,6 @@
     "SELECTION": {
         "description": "target",
         "id": 8
-    },
-    "SLASHCOMMAND": {
-        "description": "unknown",
-        "id": 92
     },
     "STANDALONESELECTION": {
         "description": "unknown",

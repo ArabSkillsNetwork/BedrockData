@@ -2,10 +2,10 @@
     "version": {
         "major": 1,
         "minor": 26,
-        "patch": 40,
-        "revision": 30,
+        "patch": 60,
+        "revision": 6,
         "beta": false,
-        "protocol_version": 2168
+        "protocol_version": 2225
     },
     "packets": {
         "LoginPacket": 1,
@@ -236,6 +236,16 @@
         "ServerPresenceInfoPacket": 347,
         "ClientboundUpdateSoundDataPacket": 348,
         "SendPartyDestinationCookiePacket": 349,
-        "PartyDestinationCookieResponsePacket": 350
+        "PartyDestinationCookieResponsePacket": 350,
+        "SetPlayerFurnaceOptionsPacket": 351,
+        "RecordStartedPacket": 352,
+        "ClientboundMatchmakingStatePacket": 353,
+        "ServerboundStonecutterSetRecipePacket": 354,
+        "ClientboundStonecutterSetRecipePacket": 355,
+        "ServerboundMatchmakingCancelPacket": 356,
+        "SetPassengerOfBlockPacket": 357,
+        "ServerboundCursorItemDragPacket": 358,
+        "ClientboundPlayAudioContentPacket": 359,
+        "ServerboundRegisterAudioContentPacket": 360
     }
 }

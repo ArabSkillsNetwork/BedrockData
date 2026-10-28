@@ -987,7 +987,10 @@
                 "block_states": "CgAAAwMAYWdlAAAAAAA=",
                 "name": "minecraft:chorus_flower"
             },
-            "minecraft:chorus_plant",
+            {
+                "block_states": "CgAAARkAbWluZWNyYWZ0OmNvbm5lY3Rpb25fZG93bgABGQBtaW5lY3JhZnQ6Y29ubmVjdGlvbl9lYXN0AAEaAG1pbmVjcmFmdDpjb25uZWN0aW9uX25vcnRoAAEaAG1pbmVjcmFmdDpjb25uZWN0aW9uX3NvdXRoAAEXAG1pbmVjcmFmdDpjb25uZWN0aW9uX3VwAAEZAG1pbmVjcmFmdDpjb25uZWN0aW9uX3dlc3QAAA==",
+                "name": "minecraft:chorus_plant"
+            },
             "minecraft:chorus_fruit",
             "minecraft:popped_chorus_fruit",
             "minecraft:sponge",

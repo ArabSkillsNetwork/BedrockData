@@ -567,5 +567,6 @@
     "warn": 44,
     "water": 86,
     "whine": 139,
-    "wind_charge.burst": 509
+    "wind_charge.burst": 509,
+    "ice_ball.break": 614
 }
